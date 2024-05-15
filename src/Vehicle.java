@@ -1,4 +1,5 @@
-  private String name;
+public class Vehicle implements doSomething{
+   private String name;
    private int wheels;
 
 
