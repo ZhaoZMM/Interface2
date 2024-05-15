@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface doSomething {
+public interface doSomething {
+   public int weirdNum();
+   public void saySomething();
 }
